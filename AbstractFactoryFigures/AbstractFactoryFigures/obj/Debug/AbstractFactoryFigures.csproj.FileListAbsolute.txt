@@ -1,0 +1,49 @@
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.exe.config
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.exe
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.pdb
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.FigureForm.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Form1.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Properties.Resources.resources
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.csproj.GenerateResource.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.exe
+C:\Users\Anna\Documents\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.pdb
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.csprojAssemblyReference.cache
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Form1.resources
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Properties.Resources.resources
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.csproj.GenerateResource.cache
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.csproj.CoreCompileInputs.cache
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.exe
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.pdb
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.exe.config
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.exe
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.pdb
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Circle.resources
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Square.resources
+D:\ИСРППС\Бабичева_ЛР_5_6\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Triangle.resources
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.exe.config
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.exe
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.pdb
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.csprojAssemblyReference.cache
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Circle.resources
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Form1.resources
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Properties.Resources.resources
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Square.resources
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Triangle.resources
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.csproj.GenerateResource.cache
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.exe
+C:\Users\Anna\Desktop\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.pdb
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.exe.config
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.exe
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\bin\Debug\AbstractFactoryFigures.pdb
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.csprojAssemblyReference.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Circle.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Form1.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Properties.Resources.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Square.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.Triangle.resources
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.csproj.GenerateResource.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.exe
+C:\Users\Anna\Documents\Институт\Инфа\Лабы 2\ИСРППС\AbstractFactoryFigures\AbstractFactoryFigures\obj\Debug\AbstractFactoryFigures.pdb
